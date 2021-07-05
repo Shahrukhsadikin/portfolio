@@ -1,0 +1,72 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    background-image:linear-gradient(rgb(27, 27, 182),skyblue);
+}
+.world{
+    display: flex;
+    width: 70%;
+    padding: 2%;
+}
+.fast-img img {
+    width: 200%;
+}
+.name{
+    color: orange;
+   
+
+}
+.facebook img{
+    width: 30px;
+    padding: 10px;
+    margin: 5px ;
+   
+}
+.hire-me{
+text-decoration: none;
+background-image: linear-gradient(orange,tomato);
+color: white;
+padding: 10px;
+font-weight: 700;
+border-radius: 5px;
+}
+.drime{
+    display: flex;
+    width: 70%;
+    padding: 10%;
+}
+.download{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    color: white;
+    padding: 10px;
+    font-weight: 700;
+    border-radius: 5px; 
+}
+.ex{
+    text-align: center;
+    font-weight: 800;
+}
+.box{
+    display: flex;
+    
+}
+.full-stack{
+   
+    border-left: 5px solid;
+    padding: 10px;
+    box-shadow: 10px gold ;
+}
+.baby{
+    
+    width: 70px;
+    padding: 10px;
+    margin: 15px ;
+}
+.full{
+    width: 70px;
+    padding: 10px;
+    margin: 5px ;
+    border-radius: 40px;
+}
+    
